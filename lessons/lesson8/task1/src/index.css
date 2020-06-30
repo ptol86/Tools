@@ -1,0 +1,15 @@
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.page {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url('./img/87946962_2778140568932186_6063573590849093632_n\ \(1\).jpg');
+}
+
+/* https://gromcode.s3.eu-central-1.amazonaws.com/front-end/tools/lesson6/task1/background.jpg */
